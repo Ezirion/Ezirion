@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">👾My name is Ezirion 👾<br><br>🔢 I'm a programmer 🔢<br>and a<br>🛡 cibersecurity specialist ⚔<br>from<br>💜 Purple Team 💜<br><br>  From Madrid, Spain. 🎸</p>
+<p align="center">👾 My name is Ezirion 👾<br><br>🔢 I'm a programmer 🔢<br>and a<br>🛡 cibersecurity specialist ⚔<br>from<br>💜 Purple Team 💜<br><br>  From Madrid, Spain. 🎸</p>
 
 ###
 
